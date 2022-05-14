@@ -2058,23 +2058,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Raphael\\.nuget\\packages\\": {},
-    "D:\\visual studio\\sdk\\NuGetPackages": {}
+    "C:\\Users\\rfcom\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\REPOSITÓRIO\\WebApiCatalogo\\APICatalogo\\APICatalogo.csproj",
+      "projectUniqueName": "C:\\Users\\rfcom\\OneDrive\\Documentos\\GitHub\\WebApiCatalogo\\APICatalogo\\APICatalogo.csproj",
       "projectName": "APICatalogo",
-      "projectPath": "D:\\REPOSITÓRIO\\WebApiCatalogo\\APICatalogo\\APICatalogo.csproj",
-      "packagesPath": "C:\\Users\\Raphael\\.nuget\\packages\\",
-      "outputPath": "D:\\REPOSITÓRIO\\WebApiCatalogo\\APICatalogo\\obj\\",
+      "projectPath": "C:\\Users\\rfcom\\OneDrive\\Documentos\\GitHub\\WebApiCatalogo\\APICatalogo\\APICatalogo.csproj",
+      "packagesPath": "C:\\Users\\rfcom\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rfcom\\OneDrive\\Documentos\\GitHub\\WebApiCatalogo\\APICatalogo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\visual studio\\sdk\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Raphael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rfcom\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2144,7 +2144,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
